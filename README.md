@@ -10,7 +10,7 @@
   <table>
     <tr>
       <td>
-        <h3>💡 "Milagres acontecem quando a gente vai à luta" — Sérgio Vaz</h3>
+        <h3>💡 "Milagres acontecem quando a gente vai à luta" — Fernando Anitelli</h3>
         <h4>💻 Desenvolvedora em formação • Criatividade + Código = Soluções incríveis</h4>
       </td>
       <td>
